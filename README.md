@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to danthonywalker's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/danthonywalker/danthonywalker.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a 21 year old Software Engineer in Southwest Idaho who specializes in JVM-centric languages (such as Java and Kotlin). I am also fluent in C, Rust, and JavaScript with an added ability of quickly adopting a new language thanks to years of exposure from other language and library design elements.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+* [Discord4J](https://github.com/Discord4J/Discord4J) - I am a primary contributor of the repository and administrator of the community. My duties include development of the user-facing API, managing pull requests, addressing issues, writing documentation (including READMEs, Javadocs, and the Wiki), moderating and participating in the community, and working with a team of talented individuals to accomplish the aforementioned tasks. We strive to provide a perfect API to suit all of our user's needs and requirements.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danthonywalker/danthonywalker.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [NeonTech](https://github.com/NeonTech/) - I am the owner of the organization. In the future, its goals are to provide an assortment of libraries and applications to allow engaging interactions between Discord users and supported game titles. It is also a staging ground for many experimental designs that may be useful to the broader programming community such as [Shielder](https://github.com/NeonTech/Shielder).
